@@ -128,7 +128,7 @@ section {
   background-color: #3e8e41;
 }
 
-.jumbotron {	
+.hello{	
 	background: url(https://i.imgur.com/ksqOx5F.jpg);
 	background-repeat: no-repeat;
   background-size: 100%;
@@ -140,19 +140,19 @@ section {
   padding: 50px;
 }
 
-.jumbotron h1 {
+.hello h1 {
 
 	color: white;
 
 }
 
-.jumbotron h3 {
+.hello h3 {
 
 	color: white;
 
 }
 
-.jumbotron button {
+.hello button {
 	margin: 15px;
 	padding: 10px;
 
@@ -185,19 +185,19 @@ section {
   outline: none;
 }
 
-.pokmon {
+.bye {
 	background-color: #4992ca;
 	padding: 50px;
 	margin: 0;
 
 }
 
-.pokmon h2 {
+.bye h2 {
 	color: white;
 	text-align: center;
 }
 
-.pokmon p {
+.bye p {
 	font-family: Avenir-Next,Roboto,sans-serif;
 	color: white;
 }
